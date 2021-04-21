@@ -2,7 +2,7 @@
 advanced:
   ? css_style
   ? css_class
-widget: portfolio
+widget: blank
 widget_id: welcome
 headless: true
 weight: 10
