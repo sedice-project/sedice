@@ -6,11 +6,14 @@ widget: hero
 widget_id: welcome
 headless: true
 weight: 10
-title: Sedice
+title: "Discrimination Explained: Field and Laboratory Experiments (SEDICE)"
 subtitle: ""
 design:
-  columns: "1"
+  columns: "2"
 hero_media: welcome.jpg
 ---
+<!--StartFragment-->
 
-The Wowchemy Research Group has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+This project aims to explore and explain a phenomenon that we propose to call *misrecognitive discrimination*. Discrimination is misrecognitive when it functions to communicate disrespect or disesteem for someone belonging to another group.
+
+<!--EndFragment-->
