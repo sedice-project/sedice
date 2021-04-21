@@ -1,5 +1,5 @@
 ---
-role: Principal Investigator
+role: ""
 bio: ""
 interests: []
 social:
@@ -13,7 +13,7 @@ education:
   courses: []
 superuser: true
 user_groups:
-  - Principal Investigator
+  - Principal Investigators
 highlight_name: false
 title: Marc Méhu, PhD
 email: ""
