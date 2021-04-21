@@ -9,11 +9,6 @@
 #  weight = 10
 
 [[main]]
-  name = "Project"
-  url = "pages/project/"
-  weight = 20
-
-[[main]]
   name = "Contact"
   url = "people"
-  weight = 30
+  weight = 20
