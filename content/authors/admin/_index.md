@@ -8,8 +8,8 @@ interests:
 social:
   - display:
       header: false
+    link: mailto:marc.mehu@webster.ac.at
     icon_pack: fas
-    link: marc.mehu[at]webster.ac.at
     icon: envelope
 organizations:
   - name: Stanford University
