@@ -10,7 +10,7 @@
 
 [[main]]
   name = "Project"
-  url = "post"
+  url = "pages/project/"
   weight = 20
 
 [[main]]
