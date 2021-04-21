@@ -1,6 +1,6 @@
 ---
 title: Lena Wittmann, MSc
-avatar_filename: avatar
+avatar_filename: ""
 social:
   - display:
       header: false
