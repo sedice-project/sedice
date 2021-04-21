@@ -2,7 +2,8 @@
 widget: about
 widget_id: my-widget-123
 headless: true
-weight: 1
+weight: 30
+title: zzzzz
 active: true
 design:
   columns: "2"
