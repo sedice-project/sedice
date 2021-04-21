@@ -46,7 +46,7 @@ Our project combines field, laboratory, and online experiments. The field  exper
 
 
 
-## Research team and funding
+## Research Team and Funding
 
 ------
 
