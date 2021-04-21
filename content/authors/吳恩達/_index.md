@@ -13,7 +13,7 @@ interests:
 social:
   - display:
       header: false
-    link: mailto:Gernot.Gerger@webster.ac.at
+    link: mailto:gernot.gerger@webster.ac.at
     icon_pack: fas
     icon: envelope
 education:
