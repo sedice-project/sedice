@@ -1,6 +1,6 @@
 ---
 title: SEDICE Project
-summary: Here we describe how to add a page to your site.
+
 
 date: false
 reading_time: false  # Show estimated reading time?
