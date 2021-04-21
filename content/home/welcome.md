@@ -10,7 +10,7 @@ title: SEDICE
 subtitle: "Discrimination Explained: Field and Laboratory Experiments"
 active: true
 design:
-  columns: "2"
+  columns: "3"
   background:
     image: ""
     gradient_start: ""
