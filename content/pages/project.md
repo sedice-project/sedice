@@ -9,7 +9,7 @@ profile: false  # Show author profile?
 comments: false  # Show comments?
 design:
 # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '1'
+  columns: '2'
 
 # Optional header image (relative to `assets/media/` folder).
 header:
