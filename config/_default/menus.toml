@@ -14,11 +14,6 @@
   weight = 20
 
 [[main]]
-  name = "People"
+  name = "Contact"
   url = "people"
   weight = 30
-
-[[main]]
-  name = "Contact"
-  url = "contact"
-  weight = 40
