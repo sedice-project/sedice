@@ -14,4 +14,4 @@ hero_media: subway.jpg
 ---
 
 
-![Webster Vienna Private University](logo.png)
+![Webster Vienna Private University](https://raw.githubusercontent.com/sedice-project/sedice/main/static/media/logo.png)
