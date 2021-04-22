@@ -10,7 +10,7 @@ title: Sedice Research Group
 subtitle: ""
 design:
   columns: "1"
-hero_media: coders.jpg
+hero_media: pexels-najoie-eddahbi-672825.jpg
 ---
 
 
