@@ -10,7 +10,7 @@ title:
 subtitle: 
 design:
   columns: "1"
-hero_media: subway_london.jpg
+hero_media: subway2.jpg
 ---
 
 <a href="https://webster.ac.at/">
