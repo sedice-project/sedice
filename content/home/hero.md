@@ -13,14 +13,16 @@ design:
 hero_media: subway3.jpg
 ---
 
-
-  
-  
-# SEDICE
-## Discrimination Explained: Field and Laboratory Experiments
-  
 <br>
 <br>
 <a href="https://webster.ac.at/">
 <img src="https://raw.githubusercontent.com/sedice-project/sedice/main/static/media/logo.png" alt="Webster Vienna Private University" width="350"/>  
  </a>
+
+<br>
+<br>
+  
+  
+# SEDICE
+## Discrimination Explained: Field and Laboratory Experiments
+  
