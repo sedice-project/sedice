@@ -5,7 +5,7 @@ advanced:
 widget: blank
 widget_id: welcome
 headless: true
-weight: 10
+weight: 20
 title: SEDICE
 subtitle: "Discrimination Explained: Field and Laboratory Experiments"
 active: true
