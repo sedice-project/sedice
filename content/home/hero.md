@@ -13,4 +13,4 @@ design:
 hero_media: subway.jpg
 ---
 <br><br>
-<img src="https://raw.githubusercontent.com/sedice-project/sedice/main/static/media/logo.png" alt="Webster Vienna Private University" width="200"/>
+<img src="https://raw.githubusercontent.com/sedice-project/sedice/main/static/media/logo.png" alt="Webster Vienna Private University" width="400"/>
