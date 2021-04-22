@@ -9,4 +9,5 @@ design:
   background:
     text_color_light: false
     image_darken: 0
+    image: /static/media/pexels-najoie-eddahbi-672825.jpg
 ---
