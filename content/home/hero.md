@@ -12,8 +12,6 @@ design:
   columns: "1"
 hero_media: subway4.jpg
 ---
-
-<br>
 <br>
 <a href="https://webster.ac.at/">
 <img src="https://raw.githubusercontent.com/sedice-project/sedice/main/static/media/logo.png" alt="Webster Vienna Private University" width="350"/>  
@@ -21,8 +19,6 @@ hero_media: subway4.jpg
 
 <br>
 <br>
-  
-  
 # SEDICE
 ## Discrimination Explained: Field and Laboratory Experiments
   
