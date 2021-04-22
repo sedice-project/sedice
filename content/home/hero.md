@@ -14,4 +14,4 @@ hero_media: pexels-najoie-eddahbi-672825.jpg
 ---
 
 
-![Webster Vienna Private University](/static/media/logo.png)
+![Webster Vienna Private University](logo.png)
