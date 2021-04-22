@@ -4,7 +4,7 @@ advanced:
 widget: blank
 widget_id: image
 headless: true
-weight: 30
+weight: 40
 title: null
 subtitle: null
 active: true
@@ -24,3 +24,4 @@ design:
       - 20px
       - "0"
 ---
+test
