@@ -19,6 +19,7 @@ hero_media: subway4.jpg
 
 <br>
 <br>
+
 # SEDICE
 ## Discrimination Explained: Field and Laboratory Experiments
   
