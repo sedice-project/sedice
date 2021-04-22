@@ -6,13 +6,16 @@ widget: hero
 widget_id: hero
 headless: true
 weight: 10
-title: SEDICE
-subtitle: "Discrimination Explained: Field and Laboratory Experiments"
+title: 
+subtitle: 
 design:
   columns: "1"
 hero_media: subway.jpg
 ---
 
-<p>Discrimination Explained: Field and Laboratory Experiments</p>
 
-<img src="https://raw.githubusercontent.com/sedice-project/sedice/main/static/media/logo.png" alt="Webster Vienna Private University" width="300"/>
+<img src="https://raw.githubusercontent.com/sedice-project/sedice/main/static/media/logo.png" alt="Webster Vienna Private University" width="400"/>
+
+# SEDICE
+## Discrimination Explained: Field and Laboratory Experiments
+
