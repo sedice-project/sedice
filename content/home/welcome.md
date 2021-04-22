@@ -12,7 +12,7 @@ active: true
 design:
   columns: "3"
   background:
-    image: ""
+    image: /static/media/coders.jpg
     gradient_start: ""
     gradient_end: ""
 hero_media: welcome.jpg
