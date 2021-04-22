@@ -13,9 +13,9 @@ design:
 hero_media: subway_london.jpg
 ---
 
-
+<a href="https://webster.ac.at/">
 <img src="https://raw.githubusercontent.com/sedice-project/sedice/main/static/media/logo.png" alt="Webster Vienna Private University" width="400"/>  
-  
+ </a>
   
   
 # SEDICE
