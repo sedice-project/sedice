@@ -10,7 +10,7 @@ title:
 subtitle: 
 design:
   columns: "1"
-hero_media: subway3.jpg
+hero_media: subway4.jpg
 ---
 
 <br>
