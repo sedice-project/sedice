@@ -9,5 +9,5 @@ design:
   background:
     text_color_light: false
     image_darken: ""
-    image: /static/media/subway_london.jpg
+    image: https://sedice.netlify.app/media/subway_london.jpg
 ---
