@@ -15,4 +15,4 @@ hero_media: subway.jpg
 
 <p>Discrimination Explained: Field and Laboratory Experiments</p>
 
-<img src="https://raw.githubusercontent.com/sedice-project/sedice/main/static/media/logo.png" alt="Webster Vienna Private University" style="width:300px;"/>
+<img src="https://raw.githubusercontent.com/sedice-project/sedice/main/static/media/logo.png" alt="Webster Vienna Private University" style="width:200px;"/>
