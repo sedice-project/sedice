@@ -10,7 +10,7 @@ title:
 subtitle: 
 design:
   columns: "1"
-hero_media: subway.jpg
+hero_media: subway_london.jpg
 ---
 
 
