@@ -18,7 +18,7 @@ subtitle:
 design:
   columns: "1"
   background:
-    image: https://raw.githubusercontent.com/sedice-project/sedice/main/static/media/subway_london.jpg
+    image: coders.jpg
     image_darken: 
     image_parallax: false
     image_position: center
